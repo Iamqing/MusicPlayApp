@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="music_item">#00000000</color>
+    <color name="music_item_name">#ffffff</color>
+    <color name="lrc_content">#99ffffff</color>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Music</string>
+    <string name="time1">00:00</string>
+    <string name="time2">4:35</string>
+    <string name="musicname">千千阙歌</string>
+    <string name="singer">张国荣</string>
+    <string name="musicstate">无歌曲播放</string>
+</resources>
